@@ -97,7 +97,7 @@ public class DeclarationSyntaxTest {
 
   @Test
   public void testDeclarationUsage() throws Exception {
-    // doTestDeclarationUsage(TS_SOURCES_WITHOUT_PLATFORM_EXTERNS);
+    doTestDeclarationUsage(TS_SOURCES_WITHOUT_PLATFORM_EXTERNS);
   }
 
   @Test
